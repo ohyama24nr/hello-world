@@ -12,6 +12,10 @@
  * @author kanazawama
  */
 
+
+
+おうおうお
+
 #pragma once
 #include <functional>
 #include "Grobal.hpp"
